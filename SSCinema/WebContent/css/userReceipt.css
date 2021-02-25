@@ -1,0 +1,54 @@
+@charset "UTF-8";
+#movieReserList, #foodBuyList{
+	border-collapse: collapse;
+	margin: auto;
+	width: 650px;
+	border: 1px solid gray; 
+}
+
+h2, h3{
+	text-align: center;
+}
+.movieTable, .foodTable{
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.movieTable, .foodTable{
+	border: 1px solid gray; 
+	background-color: silver;
+	margin: 20px;
+}
+
+.movieTable th, .movieTable td{
+	text-align: left;
+	border-bottom: 1px solid skyblue; 
+}
+
+.foodTable th, .foodTable td{
+	text-align: left;
+	border-bottom: 1px solid skyblue; 
+}
+
+.movieTable img{
+	width: 120px;
+	height: 170px;
+}
+
+.foodTable img{
+	width: 120px;
+	height: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

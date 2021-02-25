@@ -1,0 +1,179 @@
+@charset "UTF-8";
+select {
+	vertical-align: middle;
+	text-align-last: center;
+}
+
+.title {
+	font-size: 32px;
+}
+
+.theater_add {
+	width: 40%;
+}
+
+.room_add {
+	width: 50%;
+}
+
+.movie_add {
+	width: 50%;
+}
+
+.movie_cont_td {
+	width: 20vw;
+}
+
+.movie_cont_img {
+	width: 20vw;
+	height: auto;
+}
+
+.movie_cont_img_sm {
+	display: none;
+}
+
+.movie_edit {
+	width: 65%;
+}
+
+.movie_edit_img {
+	width: 10vw;
+	height: auto;
+}
+.playing_add_img {
+	width: 10vw;
+	height: auto;
+	display: none;
+}
+
+@media (max-width: 768px) {
+	.title {
+		font-size: 24px;
+	}
+	.theater_add {
+		width: 76%;
+	}
+	.room_add {
+		width: 90%;
+	}
+	.movie_add {
+		width: 90%;
+	}
+	.movie_cont_td {
+		display: none;
+	}
+	.movie_cont_img {
+		display: none;
+	}
+	.movie_cont_img_sm {
+		display: inline;
+		width: 30vw;
+		height: auto;
+	}
+	.movie_edit {
+		width: 90%;
+	}
+	.movie_edit_img {
+		width: 20vw;
+		height: auto;
+	}
+	.playing_add_img {
+		width: 20vw;
+		height: auto;
+	}
+}
+
+@media (max-width: 375px) {
+	.title {
+		font-size: 20px;
+	}
+	.theater_add {
+		width: 90%;
+	}
+	.room_add {
+		width: 100%;
+	}
+	.movie_add {
+		width: 100%;
+	}
+}
+
+.td1 {
+	width: 50%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.td2 {
+	width: 50%;
+	font-weight: normal;
+	text-align: center;
+}
+#foodList {
+	width: 95%;
+}
+.foodTable {
+	width: 80%;
+	display: inline-block;
+	margin: 3%;
+	font-size: 3.5vw;
+	over
+}
+.foodTable img {
+	height: auto;
+	width: 100%;
+	float: left;
+}
+.food {
+	display: table;
+}
+.food>div {
+	display: table-cell;
+	vertical-align: middle;
+	width: 45%;
+}
+.h {
+	display: none;
+}
+@media all and (min-width: 768px) { /* 태블릿 */
+	#foodBuyList {
+		
+		width: 95%;
+	}
+	.foodTable img {
+		height: 100%;
+		width: 100%;
+	}
+	.foodTable {
+		display: inline-block;
+		width: 29%;
+		margin: 1%;
+		font-size: 2vw;
+	}
+	.h {
+		visibility: hidden;
+	}
+	.food, .food>div{
+		display: block;
+	}
+}
+
+@media all and (min-width: 960px) { /* PC */
+	#foodList{
+		width: 960px;
+	}
+	.foodTable img {
+		height: 100%;
+		width: 100%;
+	}
+	.foodTable {
+		display: inline-block;
+		width: 210px;
+		margin: 1%;
+		font-size: 1.5rem;
+	}
+	.h {
+		visibility: hidden;
+	}
+}

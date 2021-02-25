@@ -1,0 +1,54 @@
+@charset "UTF-8";
+.user_info_tab{
+	border-collapse: collapse;
+	margin: auto;
+	width: 600px;
+}
+.user_info_tab th{
+	padding: 20px 16px 20px 16px;
+	background-color: rgb(212,244,250);
+	border: 1px solid gray; 
+	border-left: none;
+	width: 150px;
+}
+.user_info_tab td{
+	padding:0 20px 0 20px;
+	border: 1px solid gray; 
+	border-right: none;
+}
+.button td{
+	border: none;
+	padding: 20px;
+	text-align: center;
+}
+#pwd_tab td,#pwd_tab th{
+	border: none;
+	padding: 0;
+}
+h2{
+	text-align: center;
+}
+#PWDwarning{
+	display: none;
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

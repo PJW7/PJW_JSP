@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.foodTable{
+	width: 200px;
+	border: 1px solid gray;
+	text-align: center;
+}
+.foodTable img{
+	width: 120px;
+	height: 120px;
+	
+}
+.foodTable th{
+	text-align: center;
+}
+.foodBox{
+	display: inline-block;
+	margin: 25px;
+}
+.fViewTable img{
+	width: 360px;
+	height: 360px;
+}
+.button{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
