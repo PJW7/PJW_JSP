@@ -45,8 +45,8 @@
 # 구현 기능 설명
 ### 예매/구매 내역
 ![myPage2](https://user-images.githubusercontent.com/59616321/109915706-9bf09880-7cf5-11eb-8761-8ea2c1ce0faa.png)
-1. 회원의 영화예매 정보로 영화정보/상영관/좌석 정보를 조회하여 보여줌.
-2. 회원의 음식 구매 정보로 음식정보/가격/구매개수를 조회하여 보여줌.
+1. 회원의 영화예매 정보를 이용하여 영화정보/상영관/좌석 정보를 조회해서 보여줌.
+2. 회원의 음식 구매 정보를 이용하여 음식정보/가격/구매개수를 조회해서 보여줌.
 
 ### 회원가입
 ![join](https://user-images.githubusercontent.com/59616321/109917342-7fa22b00-7cf8-11eb-92b2-2cea9d17cc9d.png)
@@ -61,9 +61,9 @@
 
 ### 음식 구매
 ![foodBuy](https://user-images.githubusercontent.com/59616321/109913330-1ff45180-7cf1-11eb-8206-b3dcd2d0d045.png)
-1. 
+1. 메뉴 별로 개수를 지정하여 구매. 구매 후 구매내역에서 확인가능.
 
 ### 좌석 추가(기여도70%)
 ![seatAdd](https://user-images.githubusercontent.com/59616321/109915707-9d21c580-7cf5-11eb-925c-d680971911bd.png)
-
+1. 어는 극장인지, 몇 번 상영관인지 선택하여 지정한 개수만큼 좌석을 추가할 수 있게 함.
 
