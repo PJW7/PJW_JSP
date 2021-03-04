@@ -38,6 +38,7 @@
 ### 회원 가입/정보수정
 
 ### 음식 구매
+![foodBuy](https://user-images.githubusercontent.com/59616321/109913330-1ff45180-7cf1-11eb-8206-b3dcd2d0d045.png)
 
 ### 좌석 추가(기여도70%)
 
