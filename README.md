@@ -12,7 +12,7 @@
   + DB: OracleDB
   + Language: HTML, CSS3, JSP, JavaScript, Java
 
-## 프로젝트 조원
+#### 프로젝트 조원
 + 유○○(조장)
   + 업무: 프로젝트 통합, 영화 정보/예매, 고객센터
 
