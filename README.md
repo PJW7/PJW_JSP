@@ -9,7 +9,7 @@
   + OS: Windows10
   + Tool: Eclipse 4.8
   + Library: jQuery, ajax
-  + DB: OracleDB
+  + DBMS: OracleDB
   + Language: HTML, CSS3, JSP, JavaScript, Java
 
 #### 프로젝트 조원
